@@ -1,0 +1,46 @@
+body { 
+    text-align: center;
+}
+h2 {
+    color: #0099ff;
+    font-size: 50px;
+
+}
+input {
+    font-size: 23px;
+    border-radius: 10px;
+    border: solid black;
+}
+button {
+    font-size: 150%;
+    background-color: #0099ff;
+    color: white;
+    width: 250px;
+    border-radius: 30px;
+}
+
+p {
+    color: white;
+    font-size: 5%;
+}
+h3 {
+    font-size: 5%;
+    color: white;
+}
+h4 {
+
+    color: #0099ff;
+}
+.item {
+    font-size: 150%;
+    background-color: green;
+    color: white;
+    width: 250px;
+    border-radius: 30px;
+}
+h4 {
+    color: #0099ff;
+}
+.it{ background-color: green;}
+.white{color: white;}
+.blue{color:blue;}
