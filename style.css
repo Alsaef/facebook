@@ -1,4 +1,4 @@
-body { 
+body {
     text-align: center;
 }
 h2 {
@@ -7,10 +7,22 @@ h2 {
 
 }
 input {
-    font-size: 23px;
-    border-radius: 10px;
-    border: solid black;
+
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+outline: none;
+	background:none ;
+
+
+
+
+
 }
+
+
 button {
     font-size: 150%;
     background-color: #0099ff;
@@ -40,6 +52,12 @@ h4 {
 h4 {
     color: #0099ff;
 }
-.it{ background-color: green;}
-.white{color: white;}
-.blue{color:blue;}
+.it {
+    background-color: green;
+}
+.white {
+    color: white;
+}
+.blue {
+    color: blue;
+}
