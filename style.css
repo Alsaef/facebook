@@ -13,8 +13,8 @@ input {
     margin: 8px 0;
     box-sizing: border-box;
 
-outline: none;
-	background:none ;
+    outline: none;
+    background: none;
 
 
 
@@ -23,12 +23,12 @@ outline: none;
 }
 
 
-button {
-    font-size: 150%;
+.button {
+    
     background-color: #0099ff;
     color: white;
     width: 250px;
-    border-radius: 30px;
+    
 }
 
 li {
@@ -61,3 +61,4 @@ h4 {
 .blue {
     color: blue;
 }
+button{ font-size: 20px;}
